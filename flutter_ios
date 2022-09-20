@@ -1,0 +1,21 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<channel>
+<title>Sparkle Test App Changelog</title>
+<link>http://sparkle-project.org/files/sparkletestcast.xml</link>
+<description>Most recent changes with links to updates.</description>
+<language>en</language>
+<item>
+<title>Version 2.0</title>
+<link>https://sparkle-project.org</link>
+<sparkle:version>2.0</sparkle:version>
+<description>
+this is test for new update 
+</description>
+<sparkle:tags>
+    <sparkle:criticalUpdate>2.0</sparkle:criticalUpdate>
+</sparkle:tags>
+<pubDate>Mon, 19 Sep 2022 15:20:11 +0000</pubDate>
+<enclosure url="https://play.google.com/store/apps/details?id=io.botler.wasla&hl=en&gl=US" length="107758" type="application/octet-stream" sparkle:edSignature="7cLALFUHSwvEJWSkV8aMreoBe4fhRa4FncC5NoThKxwThL6FDR7hTiPJh1fo2uagnPogisnQsgFgq6mGkt2RBw==" sparkle:os="iOS"/>
+</item>
+</channel>
+</rss>
